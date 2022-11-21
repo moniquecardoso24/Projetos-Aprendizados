@@ -1,1 +1,3 @@
-# Projetos-
+# Projetos
+
+Aprendizado autodidata
